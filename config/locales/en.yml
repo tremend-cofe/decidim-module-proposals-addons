@@ -1,0 +1,6 @@
+---
+en:
+  decidim:
+    components:
+      proposal_addons:
+        name: ProposalAddons
